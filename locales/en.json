@@ -1,0 +1,13 @@
+{
+	"access_denied": "Access was denied. The request was blocked by fraud protection or administrator policy.",
+	"expired_token": "The continuation token has expired. Please restart the authentication flow.",
+	"http_request_failed": "The HTTP request to the authentication server failed.",
+	"invalid_passcode": "The one-time passcode is incorrect.",
+	"invalid_password": "The password is incorrect.",
+	"multifactor_required": "Multifactor authentication is required. Complete the additional verification step to proceed.",
+	"redirect_required": "Native authentication is not available. The client must fall back to browser-based authentication.",
+	"registration_required": "A strong authentication method must be registered before sign-in can complete.",
+	"response_parsing_failed": "The response from the authentication server could not be parsed.",
+	"unexpected_error": "An unexpected authentication error occurred.",
+	"user_not_found": "The user account was not found."
+}
